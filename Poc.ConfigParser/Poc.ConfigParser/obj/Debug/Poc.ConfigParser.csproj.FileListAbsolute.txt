@@ -6,3 +6,11 @@ C:\Users\Wisel\source\repos\Poc.ConfigParser\Poc.ConfigParser\obj\Debug\Poc.Conf
 C:\Users\Wisel\source\repos\Poc.ConfigParser\Poc.ConfigParser\obj\Debug\Poc.ConfigParser.exe
 C:\Users\Wisel\source\repos\Poc.ConfigParser\Poc.ConfigParser\obj\Debug\Poc.ConfigParser.pdb
 C:\Users\Wisel\source\repos\Poc.ConfigParser\Poc.ConfigParser\bin\Debug\App1.config
+C:\Development\PocPlayground\Poc.ConfigParser\Poc.ConfigParser\bin\Debug\App1.config
+C:\Development\PocPlayground\Poc.ConfigParser\Poc.ConfigParser\bin\Debug\Poc.ConfigParser.exe.config
+C:\Development\PocPlayground\Poc.ConfigParser\Poc.ConfigParser\bin\Debug\Poc.ConfigParser.exe
+C:\Development\PocPlayground\Poc.ConfigParser\Poc.ConfigParser\bin\Debug\Poc.ConfigParser.pdb
+C:\Development\PocPlayground\Poc.ConfigParser\Poc.ConfigParser\obj\Debug\Poc.ConfigParser.csprojResolveAssemblyReference.cache
+C:\Development\PocPlayground\Poc.ConfigParser\Poc.ConfigParser\obj\Debug\Poc.ConfigParser.csproj.CoreCompileInputs.cache
+C:\Development\PocPlayground\Poc.ConfigParser\Poc.ConfigParser\obj\Debug\Poc.ConfigParser.exe
+C:\Development\PocPlayground\Poc.ConfigParser\Poc.ConfigParser\obj\Debug\Poc.ConfigParser.pdb
